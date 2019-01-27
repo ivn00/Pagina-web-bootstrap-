@@ -1,0 +1,12 @@
+footer{
+	color:black;
+	background-color:#66CDAA;
+	width:100%;
+	float:left;
+	text-align:center;
+}
+
+footer a {
+	color: yellow;
+	font-size:50px;
+}
