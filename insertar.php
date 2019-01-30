@@ -40,7 +40,7 @@
 			  </div>
 			</div>
 		  </nav>
-	
+	</body>
 <?php
 	$servidor = "localhost";
 	$usuari = "root";
@@ -71,3 +71,4 @@
 		$conn->close();
 	}
 ?>
+</html>
